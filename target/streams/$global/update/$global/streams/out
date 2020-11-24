@@ -1,0 +1,214 @@
+[info] Updating {file:/C:/Users/Polina/Desktop/5_1/msit/Lab3/}lab3...
+[debug] :: resolving dependencies :: lab3#lab3_2.10;0.1
+[debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
+[debug] 	validate = true
+[debug] 	refresh = false
+[debug] resolving dependencies for configuration 'compile'
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [compile]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->default(compile)]
+[info] Resolving org.scala-lang#scala-library;2.10.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@cc1f0ff
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.0
+[debug] 	local: revision in cache: org.scala-lang#scala-library;2.10.0
+[debug] 	found org.scala-lang#scala-library;2.10.0 in public
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->runtime]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->compile]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->master]
+[debug] resolving dependencies for configuration 'runtime'
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [runtime]
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [compile]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->default(compile)]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->runtime]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->compile]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->master]
+[debug] resolving dependencies for configuration 'test'
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [test]
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [runtime]
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [compile]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->default(compile)]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->runtime]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->compile]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->master]
+[debug] resolving dependencies for configuration 'provided'
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [provided]
+[debug] resolving dependencies for configuration 'optional'
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [optional]
+[debug] resolving dependencies for configuration 'compile-internal'
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [compile-internal]
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [compile]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->default(compile)]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->runtime]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->compile]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->master]
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [optional]
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [provided]
+[debug] resolving dependencies for configuration 'runtime-internal'
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [runtime-internal]
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [runtime]
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [compile]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->default(compile)]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->runtime]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->compile]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->master]
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [optional]
+[debug] resolving dependencies for configuration 'test-internal'
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [test-internal]
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [test]
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [runtime]
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [compile]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->default(compile)]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->runtime]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->compile]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [compile->master]
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [optional]
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [provided]
+[debug] resolving dependencies for configuration 'plugin'
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [plugin]
+[debug] resolving dependencies for configuration 'sources'
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [sources]
+[debug] resolving dependencies for configuration 'docs'
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [docs]
+[debug] resolving dependencies for configuration 'pom'
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [pom]
+[debug] resolving dependencies for configuration 'scala-tool'
+[debug] == resolving dependencies for lab3#lab3_2.10;0.1 [scala-tool]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-compiler;2.10.0 [scala-tool->default]
+[info] Resolving org.scala-lang#scala-compiler;2.10.0 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.10.0 {scala-tool=[default, optional(default)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.10.0
+[debug] 	local: revision in cache: org.scala-lang#scala-compiler;2.10.0
+[debug] 	found org.scala-lang#scala-compiler;2.10.0 in public
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-compiler;2.10.0 [scala-tool->runtime]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-compiler;2.10.0 [scala-tool->compile]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-library;2.10.0 [compile->master(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-library;2.10.0 [compile->compile(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-library;2.10.0 [compile->default]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-library;2.10.0 [compile->runtime]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-library;2.10.0 [compile->compile]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-library;2.10.0 [compile->master]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-library;2.10.0 [compile->runtime(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-library;2.10.0 [compile->compile]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-library;2.10.0 [compile->optional(default)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-reflect;2.10.0 [compile->master(*)]
+[info] Resolving org.scala-lang#scala-reflect;2.10.0 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.10.0 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.10.0
+[debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.10.0
+[debug] 	found org.scala-lang#scala-reflect;2.10.0 in public
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-reflect;2.10.0 [compile->compile(*)]
+[debug] == resolving dependencies org.scala-lang#scala-reflect;2.10.0->org.scala-lang#scala-library;2.10.0 [compile->master(*)]
+[debug] == resolving dependencies org.scala-lang#scala-reflect;2.10.0->org.scala-lang#scala-library;2.10.0 [compile->compile(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-reflect;2.10.0 [compile->runtime(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-reflect;2.10.0 [compile->compile]
+[debug] == resolving dependencies org.scala-lang#scala-reflect;2.10.0->org.scala-lang#scala-library;2.10.0 [runtime->runtime(*)]
+[debug] == resolving dependencies org.scala-lang#scala-reflect;2.10.0->org.scala-lang#scala-library;2.10.0 [runtime->compile]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-library;2.10.0 [runtime->runtime(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-library;2.10.0 [runtime->compile]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-reflect;2.10.0 [runtime->runtime(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#scala-reflect;2.10.0 [runtime->compile]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-compiler;2.10.0 [scala-tool->master]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-compiler;2.10.0 [scala-tool->optional(default)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#jline;2.10.0 [optional->master(*)]
+[info] Resolving org.scala-lang#jline;2.10.0 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#jline;2.10.0 {optional=[compile(*), master(*)]}
+[debug] 		tried C:\Users\Polina\.ivy2\local\org.scala-lang\jline\2.10.0\ivys\ivy.xml
+[debug] 	local: no ivy file found for org.scala-lang#jline;2.10.0
+[debug] 		tried file:/C:/Users/Polina/.sbt/preloaded/org.scala-lang/jline/2.10.0/ivys/ivy.xml
+[debug] 	local-preloaded-ivy: no ivy file found for org.scala-lang#jline;2.10.0
+[debug] 		tried file:/C:/Users/Polina/.sbt/preloaded/org/scala-lang/jline/2.10.0/jline-2.10.0.pom
+[debug] 	local-preloaded: no ivy file found for org.scala-lang#jline;2.10.0
+[debug] 		tried http://repo1.maven.org/maven2/org/scala-lang/jline/2.10.0/jline-2.10.0.pom
+[error] SERVER ERROR: HTTPS Required url=http://repo1.maven.org/maven2/org/scala-lang/jline/2.10.0/jline-2.10.0.pom
+[debug] 	public: no ivy file found for org.scala-lang#jline;2.10.0
+[warn] 	module not found: org.scala-lang#jline;2.10.0
+[warn] ==== local: tried
+[warn]   C:\Users\Polina\.ivy2\local\org.scala-lang\jline\2.10.0\ivys\ivy.xml
+[warn] ==== local-preloaded-ivy: tried
+[warn]   file:/C:/Users/Polina/.sbt/preloaded/org.scala-lang/jline/2.10.0/ivys/ivy.xml
+[warn] ==== local-preloaded: tried
+[warn]   file:/C:/Users/Polina/.sbt/preloaded/org/scala-lang/jline/2.10.0/jline-2.10.0.pom
+[warn] ==== public: tried
+[warn]   http://repo1.maven.org/maven2/org/scala-lang/jline/2.10.0/jline-2.10.0.pom
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.0->org.scala-lang#jline;2.10.0 [optional->compile(*)]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [scala-tool->default]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [scala-tool->runtime]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [scala-tool->compile]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [scala-tool->master]
+[debug] == resolving dependencies lab3#lab3_2.10;0.1->org.scala-lang#scala-library;2.10.0 [scala-tool->optional(default)]
+[debug] 	resolved ivy file produced in cache
+[debug] :: downloading artifacts ::
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.0!scala-library.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.0!scala-compiler.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.0!scala-reflect.jar
+[debug] :: resolution report :: resolve 669ms :: artifacts dl 11ms
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[warn] 	::          UNRESOLVED DEPENDENCIES         ::
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[warn] 	:: org.scala-lang#jline;2.10.0: not found
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[debug] 	report for lab3#lab3_2.10;0.1 compile produced in C:\Users\Polina\Desktop\5_1\msit\Lab3\target\resolution-cache\reports\lab3-lab3_2.10-compile.xml
+[debug] 	report for lab3#lab3_2.10;0.1 runtime produced in C:\Users\Polina\Desktop\5_1\msit\Lab3\target\resolution-cache\reports\lab3-lab3_2.10-runtime.xml
+[debug] 	report for lab3#lab3_2.10;0.1 test produced in C:\Users\Polina\Desktop\5_1\msit\Lab3\target\resolution-cache\reports\lab3-lab3_2.10-test.xml
+[debug] 	report for lab3#lab3_2.10;0.1 provided produced in C:\Users\Polina\Desktop\5_1\msit\Lab3\target\resolution-cache\reports\lab3-lab3_2.10-provided.xml
+[debug] 	report for lab3#lab3_2.10;0.1 optional produced in C:\Users\Polina\Desktop\5_1\msit\Lab3\target\resolution-cache\reports\lab3-lab3_2.10-optional.xml
+[debug] 	report for lab3#lab3_2.10;0.1 compile-internal produced in C:\Users\Polina\Desktop\5_1\msit\Lab3\target\resolution-cache\reports\lab3-lab3_2.10-compile-internal.xml
+[debug] 	report for lab3#lab3_2.10;0.1 runtime-internal produced in C:\Users\Polina\Desktop\5_1\msit\Lab3\target\resolution-cache\reports\lab3-lab3_2.10-runtime-internal.xml
+[debug] 	report for lab3#lab3_2.10;0.1 test-internal produced in C:\Users\Polina\Desktop\5_1\msit\Lab3\target\resolution-cache\reports\lab3-lab3_2.10-test-internal.xml
+[debug] 	report for lab3#lab3_2.10;0.1 plugin produced in C:\Users\Polina\Desktop\5_1\msit\Lab3\target\resolution-cache\reports\lab3-lab3_2.10-plugin.xml
+[debug] 	report for lab3#lab3_2.10;0.1 sources produced in C:\Users\Polina\Desktop\5_1\msit\Lab3\target\resolution-cache\reports\lab3-lab3_2.10-sources.xml
+[debug] 	report for lab3#lab3_2.10;0.1 docs produced in C:\Users\Polina\Desktop\5_1\msit\Lab3\target\resolution-cache\reports\lab3-lab3_2.10-docs.xml
+[debug] 	report for lab3#lab3_2.10;0.1 pom produced in C:\Users\Polina\Desktop\5_1\msit\Lab3\target\resolution-cache\reports\lab3-lab3_2.10-pom.xml
+[debug] 	report for lab3#lab3_2.10;0.1 scala-tool produced in C:\Users\Polina\Desktop\5_1\msit\Lab3\target\resolution-cache\reports\lab3-lab3_2.10-scala-tool.xml
+[debug] 	resolve done (669ms resolve - 11ms download)
+sbt.ResolveException: unresolved dependency: org.scala-lang#jline;2.10.0: not found
+	at sbt.IvyActions$.sbt$IvyActions$$resolve(IvyActions.scala:217)
+	at sbt.IvyActions$$anonfun$update$1.apply(IvyActions.scala:126)
+	at sbt.IvyActions$$anonfun$update$1.apply(IvyActions.scala:125)
+	at sbt.IvySbt$Module$$anonfun$withModule$1.apply(Ivy.scala:115)
+	at sbt.IvySbt$Module$$anonfun$withModule$1.apply(Ivy.scala:115)
+	at sbt.IvySbt$$anonfun$withIvy$1.apply(Ivy.scala:103)
+	at sbt.IvySbt.sbt$IvySbt$$action$1(Ivy.scala:48)
+	at sbt.IvySbt$$anon$3.call(Ivy.scala:57)
+	at xsbt.boot.Locks$GlobalLock.withChannel$1(Locks.scala:95)
+	at xsbt.boot.Locks$GlobalLock.xsbt$boot$Locks$GlobalLock$$withChannelRetries$1(Locks.scala:80)
+	at xsbt.boot.Locks$GlobalLock$$anonfun$withFileLock$1.apply(Locks.scala:99)
+	at xsbt.boot.Using$.withResource(Using.scala:10)
+	at xsbt.boot.Using$.apply(Using.scala:9)
+	at xsbt.boot.Locks$GlobalLock.ignoringDeadlockAvoided(Locks.scala:60)
+	at xsbt.boot.Locks$GlobalLock.withLock(Locks.scala:50)
+	at xsbt.boot.Locks$.apply0(Locks.scala:31)
+	at xsbt.boot.Locks$.apply(Locks.scala:28)
+	at sbt.IvySbt.withDefaultLogger(Ivy.scala:57)
+	at sbt.IvySbt.withIvy(Ivy.scala:98)
+	at sbt.IvySbt.withIvy(Ivy.scala:94)
+	at sbt.IvySbt$Module.withModule(Ivy.scala:115)
+	at sbt.IvyActions$.update(IvyActions.scala:125)
+	at sbt.Classpaths$$anonfun$sbt$Classpaths$$work$1$1.apply(Defaults.scala:1223)
+	at sbt.Classpaths$$anonfun$sbt$Classpaths$$work$1$1.apply(Defaults.scala:1221)
+	at sbt.Classpaths$$anonfun$doWork$1$1$$anonfun$74.apply(Defaults.scala:1244)
+	at sbt.Classpaths$$anonfun$doWork$1$1$$anonfun$74.apply(Defaults.scala:1242)
+	at sbt.Tracked$$anonfun$lastOutput$1.apply(Tracked.scala:35)
+	at sbt.Classpaths$$anonfun$doWork$1$1.apply(Defaults.scala:1246)
+	at sbt.Classpaths$$anonfun$doWork$1$1.apply(Defaults.scala:1241)
+	at sbt.Tracked$$anonfun$inputChanged$1.apply(Tracked.scala:45)
+	at sbt.Classpaths$.cachedUpdate(Defaults.scala:1249)
+	at sbt.Classpaths$$anonfun$updateTask$1.apply(Defaults.scala:1214)
+	at sbt.Classpaths$$anonfun$updateTask$1.apply(Defaults.scala:1192)
+	at scala.Function1$$anonfun$compose$1.apply(Function1.scala:47)
+	at sbt.$tilde$greater$$anonfun$$u2219$1.apply(TypeFunctions.scala:42)
+	at sbt.std.Transform$$anon$4.work(System.scala:64)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:237)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:237)
+	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:18)
+	at sbt.Execute.work(Execute.scala:244)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:237)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:237)
+	at sbt.ConcurrentRestrictions$$anon$4$$anonfun$1.apply(ConcurrentRestrictions.scala:160)
+	at sbt.CompletionService$$anon$2.call(CompletionService.scala:30)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[error] (*:update) sbt.ResolveException: unresolved dependency: org.scala-lang#jline;2.10.0: not found
